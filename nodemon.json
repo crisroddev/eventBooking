@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "cristian",
+        "MONGO_PASSWORD": "KBDRbNUO5cQqrsIw",
+        "MONGO_DB": "booking-dev"
+    }
+
+}
